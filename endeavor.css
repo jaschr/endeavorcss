@@ -1,8 +1,8 @@
-@import "./display.css";
-@import "./containers.css";
-@import "./colorVariables.css";
-@import "./bgColors.css";
-@import "./textColors.css";
+@import "./src/display.css";
+@import "./src/containers.css";
+@import "./src/colorVariables.css";
+@import "./src/bgColors.css";
+@import "./src/textColors.css";
 
 * {
   box-sizing: border-box;
