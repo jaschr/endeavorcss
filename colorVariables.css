@@ -1,0 +1,25 @@
+:root {
+  /* Gray */
+  --gray-0: #f2f2f3;
+  --gray-1: #d8d8da;
+  --gray-2: #bebec1;
+  --gray-3: #a4a4a8;
+  --gray-4: #8a8a8f;
+  --gray-5: #707075;
+  --gray-6: #57575b;
+  --gray-7: #3e3e41;
+  --gray-8: #252527;
+  --gray-9: #161617;
+
+  /* Tan */
+  --tan-0: #f9f5ec;
+  --tan-1: #ede2c5;
+  --tan-2: #e0cf9e;
+  --tan-3: #d4bb77;
+  --tan-4: #c8a851;
+  --tan-5: #ae8e37;
+  --tan-6: #886f2b;
+  --tan-7: #614f1f;
+  --tan-8: #3a2f12;
+  --tan-9: #131006;
+}

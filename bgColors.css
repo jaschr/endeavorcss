@@ -1,0 +1,83 @@
+/* Background */
+
+/* Gray */
+.bg-gray-0 {
+  background-color: var(--gray-0);
+}
+
+.bg-gray-1 {
+  background-color: var(--gray-1);
+}
+
+.bg-gray-2 {
+  background-color: var(--gray-2);
+}
+
+.bg-gray-3 {
+  background-color: var(--gray-3);
+}
+
+.bg-gray-4 {
+  background-color: var(--gray-4);
+}
+
+.bg-gray-5 {
+  background-color: var(--gray-5);
+}
+
+.bg-gray-6 {
+  background-color: var(--gray-6);
+}
+
+.bg-gray-7 {
+  background-color: var(--gray-7);
+}
+
+.bg-gray-8 {
+  background-color: var(--gray-8);
+}
+
+.bg-gray-9 {
+  background-color: var(--gray-9);
+}
+
+/* Tan */
+.bg-tan-0 {
+  background-color: var(--tan-0);
+}
+
+.bg-tan-1 {
+  background-color: var(--tan-1);
+}
+
+.bg-tan-2 {
+  background-color: var(--tan-2);
+}
+
+.bg-tan-3 {
+  background-color: var(--tan-3);
+}
+
+.bg-tan-4 {
+  background-color: var(--tan-4);
+}
+
+.bg-tan-5 {
+  background-color: var(--tan-5);
+}
+
+.bg-tan-6 {
+  background-color: var(--tan-6);
+}
+
+.bg-tan-7 {
+  background-color: var(--tan-7);
+}
+
+.bg-tan-8 {
+  background-color: var(--tan-8);
+}
+
+.bg-tan-9 {
+  background-color: var(--tan-9);
+}
