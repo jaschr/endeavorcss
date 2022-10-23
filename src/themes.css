@@ -1,0 +1,6 @@
+/** Themes **/
+
+/* Sakura */
+:root {
+  --primary: var(--sakura);
+}

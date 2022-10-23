@@ -81,3 +81,81 @@
 .bg-tan-9 {
   background-color: var(--tan-9);
 }
+
+/*** Sakura ***/
+/* Monochromatic */
+.bg-sakura-mono-0 {
+  background-color: var(--sakura-mono-0);
+}
+
+.bg-sakura-mono-1 {
+  background-color: var(--sakura-mono-1);
+}
+
+.bg-sakura-mono-2 {
+  background-color: var(--sakura-mono-2);
+}
+
+.bg-sakura-mono-3 {
+  background-color: var(--sakura-mono-3);
+}
+
+.bg-sakura-mono-4 {
+  background-color: var(--sakura-mono-4);
+}
+
+.bg-sakura-mono-5 {
+  background-color: var(--sakura-mono-5);
+}
+
+.bg-sakura-mono-6 {
+  background-color: var(--sakura-mono-6);
+}
+
+/* Sakura Tints */
+.bg-sakura-light,
+.bg-sakura-0 {
+  background-color: var(--sakura-0);
+}
+
+.bg-sakura-1 {
+  background-color: var(--sakura-1);
+}
+
+.bg-sakura-2 {
+  background-color: var(--sakura-2);
+}
+
+.bg-sakura-3 {
+  background-color: var(--sakura-3);
+}
+
+.bg-sakura-4 {
+  background-color: var(--sakura-4);
+}
+
+.bg-sakura,
+.bg-sakura-5 {
+  background-color: var(--sakura-5);
+}
+
+.bg-sakura-6 {
+  background-color: var(--sakura-6);
+}
+
+.bg-sakura-7 {
+  background-color: var(--sakura-7);
+}
+
+.bg-sakura-8 {
+  background-color: var(--sakura-8);
+}
+
+.bg-sakura-9 {
+  background-color: var(--sakura-9);
+}
+
+.bg-sakura-dark,
+.bg-sakura-10 {
+  background-color: var(--sakura-10);
+}

@@ -1,4 +1,5 @@
 :root {
+  /*** Generic Colors ***/
   /* Gray */
   --gray-0: #f2f2f3;
   --gray-1: #d8d8da;
@@ -22,4 +23,33 @@
   --tan-7: #614f1f;
   --tan-8: #3a2f12;
   --tan-9: #131006;
+
+  /*** Theme Colors ***/
+
+  /** Sakura **/
+  --sakura: #f7cfe1;
+  --sakura-light: #fef7fa;
+  --sakura-dark: #282326;
+
+  /* Monochromatic */
+  --sakura-mono-0: #fffaff;
+  --sakura-mono-1: #ffecfe;
+  --sakura-mono-2: #ffddef;
+  --sakura-mono-3: var(--sakura);
+  --sakura-mono-4: #e8c1d3;
+  --sakura-mono-5: #dab3c5;
+  --sakura-mono-6: #cca5b7;
+
+  /* Sakura Tints */
+  --sakura-0: var(--sakura-light);
+  --sakura-1: #fdeff5;
+  --sakura-2: #fbe7f0;
+  --sakura-3: #fadfeb;
+  --sakura-4: #f9d7e6;
+  --sakura-5: var(--sakura);
+  --sakura-6: #c9a9b8;
+  --sakura-7: #9d8590;
+  --sakura-8: #74626a;
+  --sakura-9: #4c4146;
+  --sakura-10: var(--sakura-dark);
 }

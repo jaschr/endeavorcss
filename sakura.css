@@ -8,3 +8,11 @@
 @import "./src/width.css";
 @import "./src/height.css";
 @import "./src/fontSize.css";
+@import "./src/themes.css";
+
+/* Temporary Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+.poppins {
+  font-family: "Poppins", sans-serif;
+}
