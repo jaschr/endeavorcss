@@ -1,5 +1,5 @@
-# sakrua.css
+# sakura.css
 
-My personal framework/design system for use in personal projects.
+a css utility framework designed for use in my own projects
 
-Inspired by [TailwindCSS](https://tailwindcss.com/).
+inspired by [TailwindCSS](https://tailwindcss.com/)
