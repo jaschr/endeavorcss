@@ -1,5 +1,5 @@
-# EndeavorCSS
+# sakrua.css
 
 My personal framework/design system for use in personal projects.
 
-Inspired by [Tailwind](https://tailwindcss.com/).
+Inspired by [TailwindCSS](https://tailwindcss.com/).

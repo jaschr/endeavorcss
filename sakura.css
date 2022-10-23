@@ -1,16 +1,10 @@
+@import "./src/pre.css";
 @import "./src/display.css";
+@import "./src/margins.css";
 @import "./src/containers.css";
 @import "./src/colorVariables.css";
 @import "./src/bgColors.css";
 @import "./src/textColors.css";
 @import "./src/width.css";
 @import "./src/height.css";
-
-* {
-  box-sizing: border-box;
-  margin: 0;
-}
-
-body {
-  font-family: "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-}
+@import "./src/fontSize.css";
