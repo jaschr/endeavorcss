@@ -1,3 +1,6 @@
+/* Temporary Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Caveat&family=Poppins&display=swap");
+
 @import "./src/pre.css";
 @import "./src/display.css";
 @import "./src/margins.css";
@@ -10,9 +13,11 @@
 @import "./src/fontSize.css";
 @import "./src/themes.css";
 
-/* Temporary Fonts */
-@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
-
+/* Temporary Font Classes */
 .poppins {
   font-family: "Poppins", sans-serif;
+}
+
+.caveat {
+  font-family: "Caveat", cursive;
 }
