@@ -3,15 +3,15 @@
 
 @import "./src/pre.css";
 @import "./src/display.css";
-@import "./src/margins.css";
-@import "./src/containers.css";
+@import "./src/margin.css";
+@import "./src/container.css";
 @import "./src/colorVariables.css";
-@import "./src/bgColors.css";
-@import "./src/textColors.css";
+@import "./src/bgColor.css";
+@import "./src/textColor.css";
 @import "./src/width.css";
 @import "./src/height.css";
 @import "./src/fontSize.css";
-@import "./src/themes.css";
+@import "./src/theme.css";
 
 /* Temporary Font Classes */
 .poppins {

@@ -1,0 +1,20 @@
+/* Float */
+.float-none,
+.float-n {
+  float: none;
+}
+
+.float-right,
+.float-r {
+  float: right;
+}
+
+.float-left,
+.float-l {
+  float: left;
+}
+
+.float-inherit,
+.float-i {
+  float: inherit;
+}
