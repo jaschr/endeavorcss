@@ -3,6 +3,18 @@
   width: 100vw;
 }
 
+.w-fit {
+  width: fit-content;
+}
+
+.w-min {
+  width: min-content;
+}
+
+.w-max {
+  width: max-content;
+}
+
 .w-100,
 .w-full {
   width: 100%;

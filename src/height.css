@@ -3,6 +3,18 @@
   height: 100vh;
 }
 
+.h-fit {
+  height: fit-content;
+}
+
+.h-min {
+  height: min-content;
+}
+
+.h-max {
+  height: max-content;
+}
+
 .h-100,
 .h-full {
   height: 100%;
