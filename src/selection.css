@@ -1,0 +1,6 @@
+/* Selection */
+
+::selection {
+  background-color: var(--sakura);
+  color: var(--sakura-dark);
+}
