@@ -1,10 +1,31 @@
 /* Display */
+
 .block {
   display: block;
 }
 
 .flex {
   display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.justify-evenly {
+  justify-content: space-evenly;
+}
+
+.justy-around {
+  justify-content: space-around;
+}
+
+.align-center {
+  align-items: center;
 }
 
 .grid {
