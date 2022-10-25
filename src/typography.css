@@ -53,3 +53,7 @@ h6 {
   letter-spacing: 0;
   line-height: 1.4;
 }
+
+.txt-center {
+  text-align: center;
+}
